@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ddc98180205ff51fa7c7302f",
+  "owner": "hfjnqeg",
+  "repo": "page-bccdcb1eee5e8d858490693c",
+  "title": "Qiuniu",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bccdcb1eee5e8d858490693c",
+      "a": "Qiuniu",
+      "b": "2027最新官网",
+      "entity": "Qiuniu",
+      "brand": "Qiuniu",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "03ea353dbfbfc98b14a5df879ef075fbe323eb19cb750060f43374a3ef8e8952",
+      "content": {
+        "primary_entity": "Qiuniu",
+        "keyword1": "Qiuniu",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择订阅客户端，再导入订阅链接。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择套餐，配置好订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐轻松上手",
+          "AI_DESCRIPTION": "，Qiuniu 提供基础版、旗舰版与团队版三档订阅，按月或按年计费。基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB 流量、5 台设备，支持原生流媒体解锁与 IPLC 专线游戏加速；团队版每月 1000GB 流量、20 台设备，附带 VIP 高带宽节点和企业定制路由。按设备数量与流量需求挑选，再依客户端文档导入订阅即可。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路三个角度对比套餐，找到匹配日常使用的档位。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月与 3 台设备适合轻度浏览；旗舰版 300GB/月与 5 台设备覆盖多数日常场景。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，适合影音与游戏使用。",
+          "AI_FEATURE_TEXT_3": "团队版 1000GB/月与 20 台设备，包含 VIP 高带宽节点、企业定制路由与专属客户经理服务。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路与场景优化",
+          "AI_FEATURE_TITLE_3": "团队与企业支持",
+          "AI_GUIDE_INTRO": "选择服务、查看适配要求、依客户端文档配置订阅，三步完成使用准备。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Qiuniu 面向需要海外网络加速的用户，提供三档订阅方案：基础版 100GB 流量与 3 台设备，旗舰版 300GB 流量与 5 台设备并优化流媒体与游戏线路，团队版 1000GB 流量与 20 台设备。按月或按年计费，按设备与用量选择即可。",
+          "AI_HERO_SUBTITLE": "三档订阅适配不同设备与流量需求",
+          "AI_HIGHLIGHT_1": "基础版 100GB/月，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 300GB/月，5 台设备与专线加速",
+          "AI_HIGHLIGHT_3": "团队版 1000GB/月，20 台设备与定制路由",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "从基础版、旗舰版、团队版中选择一档，对照流量额度与可同时在线设备数。",
+          "AI_STEP_TEXT_2": "查看所选套餐在常用设备与系统上的适配要求，确认客户端类型。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅链接，完成配置后即可在对应设备上使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Qiuniu 订阅套餐",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "Qiuniu 套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "按设备数量与流量判断。1 至 3 台设备且月用量约 100GB 选基础版；需要 5 台设备与 300GB 流量并看重流媒体，可选旗舰版；20 台设备或企业路由定制选团队版。",
+          "AI_FAQ_QUESTION_2": "订阅支持哪些客户端？",
+          "AI_FAQ_ANSWER_2": "可在 Windows、macOS、iOS、Android 及路由器上使用常见客户端导入订阅。不同平台功能存在差异，建议依据客户端文档配置并测试连接。",
+          "AI_FAQ_QUESTION_3": "可以同时连接几台设备？",
+          "AI_FAQ_ANSWER_3": "基础版 3 台设备同时在线，旗舰版 5 台，团队版最多 20 台。若多设备同时使用超出上限，需要升级套餐或减少在线设备数量。",
+          "AI_FAQ_QUESTION_4": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_4": "按月付灵活性高，适合短期或试用；按年付一次支付更省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。可依使用周期决定。",
+          "AI_FAQ_QUESTION_5": "流量用完后怎么办？",
+          "AI_FAQ_ANSWER_5": "套餐流量按月重置，当周期内超出额度后可等待下个周期恢复，或升级到更高流量版本。团队版每月 1000GB，适合大流量场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jjrr1997.cn",
+    "host": "jjrr1997.cn"
+  },
+  "file_hashes": {
+    "index.html": "8a8d2b2d324e751622c91cba1eb8d9f80b0d17815eb2ba9fd40c780c5ad8c7de",
+    "sitemap.xml": "a62cc1c98a86b2e4a64d8af94571623ee5601614d76479a65e3690de0a713c71",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3278c06ce115464c5fa69aaf6e5b62cfc703fb9f594649195354d5e94b7867c3",
+    "robots.txt": "e006f773ab5fa8513f0a54f230f6f70d63a74de5d87238f6c4739fbf304edc14",
+    "9d336f2b00f9a52242ca7f66b94a1124.txt": "6e5078b637f2330d732d153c017baf375dccc3b52b66cc47639bdbd06f74ba88"
+  },
+  "revision": "f7bd946079e9b2a3832de9e3e36f9cc4d9443cf16ca82f61072be9aec549b4cd"
+}
